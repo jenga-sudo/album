@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Folio — 포토 앨범 & PDF 스튜디오",
+  "description": "사진 여러 장을 올려 한 쪽에 한 장씩 제목과 설명을 담아 넘겨보고 PDF로 저장하는 단일 파일 포토 앨범 웹 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
